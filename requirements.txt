@@ -1,4 +1,5 @@
-tensorflow/Keras
+tensorflow
+Keras
 numpy
 pandas
 scipy
